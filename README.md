@@ -91,7 +91,7 @@ SEGUE FOTOS QUE MOSTRA O SUCESSO DO GET E POST:
 ![post1](https://github.com/user-attachments/assets/a506bba0-c1e1-494b-bc62-4531bcf435b6)
 ![post2](https://github.com/user-attachments/assets/b7ef56f8-b1f7-40bd-92f1-1d8541cd1fdd)
 ![post4](https://github.com/user-attachments/assets/fba38043-d943-4942-aab8-e813433ade38)
-![get1](https://github.com/user-attachments/assets/e876c647-9a74-4cfd-a829-ba7093c49f92)
+![get4](https://github.com/user-attachments/assets/1ab026c9-b632-4476-b0a8-db0939ec6087)
 ![get3](https://github.com/user-attachments/assets/ffc10f3e-4104-4b30-9f82-5b34a09f83f9)
 
 
