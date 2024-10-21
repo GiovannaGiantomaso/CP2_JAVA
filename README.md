@@ -168,6 +168,10 @@ Gabriel Artacho - RM553527
 
 Rebeca Lopes - RM553764
 
+PRINT DO SPRING INITIALIZR:
+
+![print1](https://github.com/user-attachments/assets/8db570bd-6975-4c23-96f5-c42bbb0e8bb2)
+
 SEGUE FOTOS QUE MOSTRA O SUCESSO DO GET E POST:
 
 ![post1](https://github.com/user-attachments/assets/a506bba0-c1e1-494b-bc62-4531bcf435b6)
