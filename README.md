@@ -161,6 +161,8 @@ Contribuidores
 
 Giovanna Lima Giantomaso - RM553369
 
+Gabriel Artacho - RM553527
+
 Rebeca Lopes - RM553764
 
 SEGUE FOTOS QUE MOSTRA O SUCESSO DO GET E POST:
