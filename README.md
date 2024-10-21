@@ -125,9 +125,13 @@ mvn spring-boot:run
 Acesse o aplicativo via Postman ou outro cliente HTTP usando os endpoints mencionados acima.
 
 Contribuidores
+
 Giovanna Lima Giantomaso - RM553369
+
 Rebeca Lopes - RM553764
+
 SEGUE FOTOS QUE MOSTRA O SUCESSO DO GET E POST:
+
 ![post1](https://github.com/user-attachments/assets/a506bba0-c1e1-494b-bc62-4531bcf435b6)
 ![post2](https://github.com/user-attachments/assets/b7ef56f8-b1f7-40bd-92f1-1d8541cd1fdd)
 ![post4](https://github.com/user-attachments/assets/fba38043-d943-4942-aab8-e813433ade38)
