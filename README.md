@@ -119,7 +119,9 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.database-platform=org.hibernate.dialect.OracleDialect
 
 Compile e execute o projeto:
+
 mvn spring-boot:run
+
 Acesse o aplicativo via Postman ou outro cliente HTTP usando os endpoints mencionados acima.
 
 Contribuidores
