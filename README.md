@@ -1,11 +1,16 @@
 Sistema de Cadastro de Brinquedos
+
 Descrição
+
 Este projeto é uma aplicação desenvolvida com Spring Boot e Java que permite gerenciar o cadastro de brinquedos voltados para crianças de até 12 anos. A aplicação oferece operações básicas de CRUD (Create e Read) utilizando uma API REST que interage com um banco de dados Oracle para armazenar as informações dos brinquedos.
 
 Funcionalidades
+
 Cadastro de Brinquedos: Inserção de novos brinquedos via POST.
 Consulta de Brinquedos: Recuperação de todos os brinquedos cadastrados ou de um brinquedo específico via GET.
+
 Estrutura de Dados
+
 Cada brinquedo é armazenado no banco de dados com as seguintes informações:
 
 Id: Identificador único gerado automaticamente.
