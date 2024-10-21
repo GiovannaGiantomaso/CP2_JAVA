@@ -170,8 +170,7 @@ Rebeca Lopes - RM553764
 
 PRINT DO SPRING INITIALIZR:
 
-![print1](https://github.com/user-attachments/assets/29badd68-bb99-4394-810c-57828d85b186)
-
+![print1](https://github.com/user-attachments/assets/9198d628-661e-40d7-9600-28369d12ee6b)
 
 SEGUE FOTOS QUE MOSTRA O SUCESSO DO GET E POST:
 
