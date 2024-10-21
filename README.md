@@ -68,6 +68,39 @@ json
         "preco": 49.9
         
     }
+Corpo da Requisição (JSON):
+
+json
+    {
+    
+    "nome": "Quebra-cabeça",
+    
+    "tipo": "Jogo de Mesa",
+    
+    "classificacao": "6+ anos",
+    
+    "tamanho": "Grande",
+    
+    "preco": 79.90
+    
+}
+Exemplo de Resposta (JSON):
+
+json
+    {
+    
+    "nome": "Quebra-cabeça",
+    
+    "tipo": "Jogo de Mesa",
+    
+    "classificacao": "6+ anos",
+    
+    "tamanho": "Grande",
+    
+    "preco": 79.90
+    
+}
+
 Exemplo de Requisição (GET)
 
 Endpoint para listar todos os brinquedos:
